@@ -1,0 +1,8 @@
+prefix=/home/ty/catkin_ws/install
+
+Name: toptal_tutorial
+Description: Description of toptal_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ty/catkin_ws/install/lib 
+Requires: 
